@@ -1,0 +1,9 @@
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz 2\Practical\PayrollGUI\bin\Debug\PayrollGUI.exe.config
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz 2\Practical\PayrollGUI\bin\Debug\PayrollGUI.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz 2\Practical\PayrollGUI\bin\Debug\PayrollGUI.pdb
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz 2\Practical\PayrollGUI\obj\Debug\PayrollGUI.csprojAssemblyReference.cache
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz 2\Practical\PayrollGUI\obj\Debug\PayrollGUI.Form1.resources
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz 2\Practical\PayrollGUI\obj\Debug\PayrollGUI.Properties.Resources.resources
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz 2\Practical\PayrollGUI\obj\Debug\PayrollGUI.csproj.GenerateResource.cache
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz 2\Practical\PayrollGUI\obj\Debug\PayrollGUI.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Quiz 2\Practical\PayrollGUI\obj\Debug\PayrollGUI.pdb
